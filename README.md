@@ -2,7 +2,7 @@
 THREEjs Projects || HTML || CSS || JavaScript. A library of javascript 3d models.
 `Support me on: `[facebook](https://www.facebook.com/shuvra.gupta.16/)
 
-Author: | Information |
+ Information |Author: |
 ------- | ------------- |
 First Name: | Shirshen |
 Last Name: | Das Gupta |
