@@ -9,6 +9,6 @@ import { OrbitControls } from "https://cdn.jsdelivr.net/npm/three@0.125.2/exampl
 ```
 
 ### Library That I used: 
-* **[cdn.jsdelivr.net]JsDeliver**
+* **[cdn.jsdelivr.net](cdn.jsdelivr.net)**
 * **cdnjs.org**
 * **threejs.org**
