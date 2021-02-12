@@ -40,7 +40,7 @@ controls.dampingFactor = 0.05;	// SETTING IT'S VALUE
 controls.update();	
 ```
 
-### Library That I used: 
+### Links that I used: 
 * **[cdn.jsdelivr.net](https://www.jsdelivr.com/)**
 * **[cdnjs.org](https://cdnjs.com/)**
 * **[threejs.org](https://threejs.org/)**
