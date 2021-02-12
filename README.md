@@ -1,6 +1,6 @@
 # THREEjs-Projects
 THREEjs Projects || HTML || CSS || JavaScript. A library of javascript 3d models.
-`buy me a coffee` 
+`Support me on: ` [facebook](https://www.facebook.com/shuvra.gupta.16/') 
 
 Author: | Information |
 ------- | ------------- |
