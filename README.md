@@ -1,7 +1,7 @@
 # THREEjs-Projects
 THREEjs Projects || HTML || CSS || JavaScript. A library of javascript 3d models.
 `buy me a coffee` 
-Author's: 
+
 Author: | Information |
 ------- | ------------- |
 First Name: | Shirshen |
@@ -9,6 +9,7 @@ Last Name: | Das Gupta |
 Nick Name: | Shuvro |
 Other Names: | None |
 
+# Common Codes: 
 ``` Javascript
 import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.125.2/build/three.module.js";
 import { OrbitControls } from "https://cdn.jsdelivr.net/npm/three@0.125.2/examples/jsm/controls/OrbitControls.js";
