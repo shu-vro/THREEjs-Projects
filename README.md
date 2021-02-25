@@ -38,6 +38,13 @@ controls.enableDamping = true;	// MAKING A SOFT MOTION EFFECT.
 controls.dampingFactor = 0.05;	// SETTING IT'S VALUE
 // controls.maxPolarAngle = Math.PI / 2;	// IF YOU WANT, YOU CAN FIX THE CAMERA ANGULAR MOVEMENT.
 controls.update();	
+
+function animate() {
+    requestAnimationFrame(animate);
+    renderer.render(scene, camera);
+    controls.update();
+}
+animate();
 ```
 
 ### Links that I used: 
