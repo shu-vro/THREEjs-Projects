@@ -51,3 +51,12 @@ function animate() {
     controls.update();
 }
 animate();
+
+// MAKING THE PAGE RESPONSIVE
+window.addEventListener("resize", () => {
+    let width = window.innerWidth;
+    let height = window.innerHeight;
+    renderer.setSize(width, height);    // UPDATING THE RENDERER SIZE.
+    camera.aspect = width / height;     // UPDATING THE CAMERA ASPECT.
+    camera.updateProjectionMatrix();
+});
